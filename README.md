@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**SooJae/SooJae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+프론트엔드에 관심이 많은 개발자입니다.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social
+<p>
+  <a href="https://soojae.tistory.com/" target="_blank">
+   <img src="https://img.shields.io/badge/Blog-E8E8E8?style=flat-square&logo=Buefy&logoColor=black"/>
+  </a>
+</p>
+
+### Languages and Tools
+
+<p> 
+  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=React&logoColor=61dafb"/>&nbsp;
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=whitehite"/>&nbsp;
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestJS&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>&nbsp;
+</p>
+
