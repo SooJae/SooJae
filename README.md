@@ -12,7 +12,7 @@
 ### Languages and Tools
 
 <p> 
-  <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=React&logoColor=61dafb"/>&nbsp;
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=whitehite"/>&nbsp;
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestJS&logoColor=white"/>&nbsp;
